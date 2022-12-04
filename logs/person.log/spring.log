@@ -1,0 +1,10 @@
+2022-12-01 14:37:09.355  INFO 5396 --- [main] io.mam.person.Application                : Starting Application using Java 18.0.2.1 on MAM-PC with PID 5396 (C:\Users\Muhammed\Documents\Java\Projects\person.rest-service\person.rest-service\target\classes started by mam in C:\Users\Muhammed\Documents\Java\Projects\person.rest-service)
+2022-12-01 14:37:09.361  INFO 5396 --- [main] io.mam.person.Application                : No active profile set, falling back to 1 default profile: "default"
+2022-12-01 14:37:11.422  INFO 5396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-12-01 14:37:11.579  INFO 5396 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2139 ms
+2022-12-01 14:37:12.304  INFO 5396 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-12-01 14:37:12.640  INFO 5396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-01 14:37:12.642  INFO 5396 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2022-12-01 14:37:12.667  INFO 5396 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2022-12-01 14:37:12.697  INFO 5396 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-12-01 14:37:12.848  INFO 5396 --- [main] io.mam.person.Application                : Started Application in 4.139 seconds (JVM running for 4.831)
